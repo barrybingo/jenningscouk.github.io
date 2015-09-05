@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Jennings Consulting
-tagline: <BR>Simplifying Business Improvement & support
-description: Jennings Consultants providing simple effective services for your organisation's needs
+tagline: "<BR>Simplifying Business Improvement & support"
+description: "Jennings Consultants providing simple effective services for your organisation's needs"
+published: true
 ---
+
 {% include JB/setup %}
 
 <section id="about" class="about">
@@ -40,6 +42,9 @@ From the most basic function to the highest level operation, process mapping can
 ## Internal Audits
 Processes are only as good as the people that use them so it is important to ensure that your team understand and follow your processes correctly.  We can carry out an independent review of the documented processes within your organisation to the current ISO 9001 and or 14001 standards as well as to your organisation’s requirements.  Agreed corrective actions will be documented with agreed timescales for completion, follow up audits can be conducted to ensure action closure.
 
+## SOMTHING
+wankstain
+
 ## Supplier Audits
 Key suppliers are as important to your delivery programme as your own internal processes.  Working closely with them ensures their understanding of your requirements and shows them that they are important to you as an effective supplier.  Our supplier audits can be tailored to your organisation’s needs and can be from a half day to multiple days’ duration depending on your needs.  A full report is provided with agreed timescales for completion of actions. Follow up audits can be conducted to ensure action closure.
 
@@ -65,4 +70,3 @@ Embrace change within your organisation and empower everyone to push for continu
 To successfully measure the performance of your organisation, you need to ensure that you identify and focus on the correct areas of your business in line with your key objectives. We can help establish what these areas are and then help you decide how best to measure performance in those areas and set KPI's that align with your strategy, engage people and get results. These are then implemented into your organisation's reporting structure and ownership delegated to those in control of the outputs. Careful monitoring and reviewing of the system then leads the business in the right direction for Customer satisfaction, Effectiveness, Efficiency and Profitability.
   </div>
 </section>
-
